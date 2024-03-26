@@ -1,3 +1,3 @@
 function df(){
-    const temp = {fname:""};
+    const temp = {};
 }
