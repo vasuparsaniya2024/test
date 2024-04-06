@@ -1,2 +1,1 @@
-ssfss vasu 
- parsaniya
+ssfss vasu
